@@ -1,0 +1,92 @@
+@media (max-width: 581px) {
+  .cars {
+    flex-direction: column;
+  }
+  .icons {
+    flex-direction: column;
+  }
+  .tere {
+    font-size: 5px;
+  }
+  .h {
+    flex-direction: column;
+  }
+  .nav-btn {
+    padding-top: 30px;
+    justify-content: center;
+  }
+  ul {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .nav-brend {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+@media (max-width: 1376px) {
+  .yangi-qator {
+    flex-direction: column;
+    text-align: center;
+  }
+  .img-word {
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+  }
+  .pl {
+    display: none;
+  }
+  .j {
+    margin: 0 auto;
+  }
+}
+/* 1278 */
+@media (max-width: 1278px) {
+  .j {
+    display: none;
+  }
+}
+/* 420 */
+@media (max-width: 420px) {
+  .Find {
+    font-size: 20px;
+    display: none;
+    text-align: center;
+  }
+  .tere {
+    font-size: 5px;
+  }
+}
+@media (max-width: 1820px) {
+  .ras img {
+    display: none;
+  }
+}
+/* 1420 */
+@media (max-width: 1420px) {
+  .fote {
+    flex-direction: column;
+    text-align: center;
+  }
+  .footer {
+    text-align: center;
+    flex-direction: column;
+  }
+  .build {
+    flex-direction: column;
+    text-align: center;
+  }
+  .like {
+    display: none;
+  }
+  .persons {
+    align-items: center;
+  }
+  .perso {
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+}
